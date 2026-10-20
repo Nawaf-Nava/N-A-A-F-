@@ -1,0 +1,6 @@
+{
+  "name": "Nava Cryptography",
+  "description": "Secure text encryption and decryption tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
